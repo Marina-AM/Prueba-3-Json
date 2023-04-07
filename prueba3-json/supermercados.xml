@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<supermercados>
+		<nombre>mercadona</nombre>
+		<direccion>C. Juan Antonio Cavestany, 19, 41003 Sevilla</direccion>
+		<geolocalizacion>37.390757251300876, -5.979850893892224</geolocalizacion>
+		<producto>
+			<nombre>coliflor congelada</nombre>
+			<categoria>verduras</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>1.88</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>arroz redondo</nombre>
+			<categoria>arroz, pasta y legumbres</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>1.3</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>pack latas de atun en aceite de girasol</nombre>
+			<categoria>enlatados</categoria>
+			<unidades>6</unidades>
+			<unidMedida>latas</unidMedida>
+			<oferta>false</oferta>
+			<precio>4.6</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>Frutos rojos congelados</nombre>
+			<categoria>fruta</categoria>
+			<unidades>0.3</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>1.59</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>huevos medianos</nombre>
+			<categoria></categoria>
+			<unidades>12</unidades>
+			<unidMedida>unidades</unidMedida>
+			<oferta>false</oferta>
+			<precio>2</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>garbanzos</nombre>
+			<categoria>arroz, pasta y legumbres</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>2.4</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>pollo entero</nombre>
+			<categoria>carne</categoria>
+			<unidades>1.9</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>6.17</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>medallones de merluza</nombre>
+			<categoria>pescado</categoria>
+			<unidades>0.485</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>3.75</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>menestra de verduras</nombre>
+			<categoria>verduras</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>1.35</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>platanos</nombre>
+			<categoria>frutas</categoria>
+			<unidades>1.8</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>3</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+	</supermercados>
+	<supermercados>
+		<nombre>el corte ingles</nombre>
+		<direccion>C. Luis Montoto, 122, 128, 41005 Sevilla</direccion>
+		<geolocalizacion>37.38690759629258, -5.971654579166986</geolocalizacion>
+		<producto>
+			<nombre>coliflor congelada</nombre>
+			<categoria>verduras</categoria>
+			<unidades>0.75</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>1.45</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>arroz redondo</nombre>
+			<categoria>arroz, pasta y legumbres</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>1.3</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>pack latas de atun en aceite de girasol</nombre>
+			<categoria>enlatados</categoria>
+			<unidades>6</unidades>
+			<unidMedida>latas</unidMedida>
+			<oferta>false</oferta>
+			<precio>4.35</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>arandanos congelados</nombre>
+			<categoria>fruta</categoria>
+			<unidades>0.3</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>3.51</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>huevos medianos</nombre>
+			<categoria></categoria>
+			<unidades>12</unidades>
+			<unidMedida>unidades</unidMedida>
+			<oferta>true</oferta>
+			<precio>3.38</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>garbanzos</nombre>
+			<categoria>arroz, pasta y legumbres</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>true</oferta>
+			<precio>2.49</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>pollo entero</nombre>
+			<categoria>carne</categoria>
+			<unidades>1.7</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>5.53</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>rodajas de merluza</nombre>
+			<categoria>pescado</categoria>
+			<unidades>0.54</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>5.49</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>surtido de verduras</nombre>
+			<categoria>verduras</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>3.13</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>platanos</nombre>
+			<categoria>frutas</categoria>
+			<unidades>2</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>4.98</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+	</supermercados>
+	<supermercados>
+		<nombre>carrefour</nombre>
+		<direccion>Av. Eduardo Dato, 22, 41018 Sevilla</direccion>
+		<geolocalizacion>37.383079103883254, -5.975107533226466</geolocalizacion>
+		<producto>
+			<nombre>coliflor congelada</nombre>
+			<categoria>verduras</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>1.88</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>arroz redondo</nombre>
+			<categoria>arroz, pasta y legumbres</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>1.6</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>pack latas de atun en aceite de girasol</nombre>
+			<categoria>enlatados</categoria>
+			<unidades>6</unidades>
+			<unidMedida>latas</unidMedida>
+			<oferta>false</oferta>
+			<precio>3.79</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>frutos rojos congelados</nombre>
+			<categoria>fruta</categoria>
+			<unidades>0.5</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>3.09</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>huevos medianos</nombre>
+			<categoria></categoria>
+			<unidades>12</unidades>
+			<unidMedida>unidades</unidMedida>
+			<oferta>false</oferta>
+			<precio>2.19</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>garbanzos</nombre>
+			<categoria>arroz, pasta y legumbres</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>2.39</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>pollo entero</nombre>
+			<categoria>carne</categoria>
+			<unidades>1.8</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>11.25</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>medallones de merluza</nombre>
+			<categoria>pescado</categoria>
+			<unidades>0.48</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>4.09</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>menestra de verduras</nombre>
+			<categoria>verduras</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>4.25</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>platanos</nombre>
+			<categoria>frutas</categoria>
+			<unidades>0.6</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>2</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+	</supermercados>
+	<supermercados>
+		<nombre>lidl</nombre>
+		<direccion>C. María Auxiliadora, 18, D-C, 41008 Sevilla</direccion>
+		<geolocalizacion>37.39684686229764, -5.981743307656443</geolocalizacion>
+		<producto>
+			<nombre>coliflor</nombre>
+			<categoria>verduras</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>2.98</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>arroz largo</nombre>
+			<categoria>arroz, pasta y legumbres</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>1.29</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>pack latas de atun en aceite de girasol</nombre>
+			<categoria>enlatados</categoria>
+			<unidades>6</unidades>
+			<unidMedida>latas</unidMedida>
+			<oferta>true</oferta>
+			<precio>3.78</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>frutos rojos congelados</nombre>
+			<categoria>fruta</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>3.99</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>huevos medianos</nombre>
+			<categoria></categoria>
+			<unidades>12</unidades>
+			<unidMedida>unidades</unidMedida>
+			<oferta>false</oferta>
+			<precio>2.09</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>garbanzos</nombre>
+			<categoria>arroz, pasta y legumbres</categoria>
+			<unidades>0.57</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>2.19</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>pollo entero</nombre>
+			<categoria>carne</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>true</oferta>
+			<precio>3.25</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>bacalao</nombre>
+			<categoria>pescado</categoria>
+			<unidades>0.25</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>3.79</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>menestra de verduras</nombre>
+			<categoria>verduras</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>1.09</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>platanos</nombre>
+			<categoria>frutas</categoria>
+			<unidades>2</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>true</oferta>
+			<precio>2.1</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+	</supermercados>
+	<supermercados>
+		<nombre>dia</nombre>
+		<direccion>C. Paco Gandía, 5-7, 41007 Sevilla</direccion>
+		<geolocalizacion>37.38938142050438, -5.9692594173708855</geolocalizacion>
+		<producto>
+			<nombre>coliflor congelada</nombre>
+			<categoria>verduras</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>1.88</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>arroz redondo</nombre>
+			<categoria>arroz, pasta y legumbres</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>1.35</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>pack latas de atun en aceite de girasol</nombre>
+			<categoria>enlatados</categoria>
+			<unidades>6</unidades>
+			<unidMedida>latas</unidMedida>
+			<oferta>false</oferta>
+			<precio>3.89</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>frutos rojos congelados</nombre>
+			<categoria>fruta</categoria>
+			<unidades>0.3</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>1.63</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>huevos medianos</nombre>
+			<categoria></categoria>
+			<unidades>12</unidades>
+			<unidMedida>unidades</unidMedida>
+			<oferta>false</oferta>
+			<precio>2.02</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>garbanzos</nombre>
+			<categoria>arroz, pasta y legumbres</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>2.39</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>pollo entero</nombre>
+			<categoria>carne</categoria>
+			<unidades>2</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>7.99</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+		<producto>
+			<nombre>medallones de merluza</nombre>
+			<categoria>pescado</categoria>
+			<unidades>0.475</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>3.59</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>menestra de verduras</nombre>
+			<categoria>verduras</categoria>
+			<unidades>1</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>1.2</precio>
+			<caducidad></caducidad>
+			<adquirido>true</adquirido>
+		</producto>
+		<producto>
+			<nombre>platanos</nombre>
+			<categoria>frutas</categoria>
+			<unidades>1.2</unidades>
+			<unidMedida>kilo</unidMedida>
+			<oferta>false</oferta>
+			<precio>2.99</precio>
+			<caducidad></caducidad>
+			<adquirido>false</adquirido>
+		</producto>
+	</supermercados>
+</root>

@@ -1,0 +1,589 @@
+{
+    "supermercados":[
+        {
+            "nombre":"mercadona",
+            "direccion":"C. Juan Antonio Cavestany, 19, 41003 Sevilla",
+            "geolocalizacion":"37.390757251300876, -5.979850893892224",
+            "producto":[
+        
+                {
+                    "nombre": "coliflor congelada",
+                    "categoria": "verduras",
+                    "unidades": 1,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 1.88,
+                    "caducidad":"",
+                    "adquirido": false
+                },
+            
+                {
+                    "nombre": "arroz redondo",
+                    "categoria": "arroz, pasta y legumbres",
+                    "unidades": 1,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 1.30,
+                    "caducidad": "",
+                    "adquirido": true
+                },
+        
+                {
+                    "nombre": "pack latas de atun en aceite de girasol",
+                    "categoria": "enlatados",
+                    "unidades": 6,
+                    "unidMedida": "latas",                    
+                    "oferta": false,
+                    "precio": 4.60,
+                    "caducidad": "",
+                    "adquirido": false
+                },
+             
+                {
+                    "nombre": "Frutos rojos congelados",
+                    "categoria": "fruta",
+                    "unidades": 0.300,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 1.59,
+                    "caducidad": "",
+                    "adquirido": true
+                },
+     
+                {
+                    "nombre": "huevos medianos",
+                    "categoria": "",
+                    "unidades": 12,
+                    "unidMedida": "unidades",                    
+                    "oferta": false,
+                    "precio": 2,
+                    "caducidad": "",
+                    "adquirido": false
+                },
+      
+                {
+                    "nombre": "garbanzos",
+                    "categoria": "arroz, pasta y legumbres",
+                    "unidades": 1,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 2.40,
+                    "caducidad": "",
+                    "adquirido": true
+                },
+  
+                {
+                    "nombre": "pollo entero",
+                    "categoria": "carne",
+                    "unidades": 1.9,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 6.17,
+                    "caducidad": "",
+                    "adquirido": false
+                },
+    
+                {
+                    "nombre": "medallones de merluza",
+                    "categoria": "pescado",
+                    "unidades": 0.485,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 3.75,
+                    "caducidad": "",
+                    "adquirido": true
+                },
+
+                {
+                    "nombre": "menestra de verduras",
+                    "categoria": "verduras",
+                    "unidades": 1,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 1.35,
+                    "caducidad": "",
+                    "adquirido": true
+                },
+     
+                {
+                    "nombre": "platanos",
+                    "categoria": "frutas",
+                    "unidades": 1.8,
+                    "unidMedida":"kilo",                    
+                    "oferta": false,
+                    "precio": 3,
+                    "caducidad": "",
+                    "adquirido": false
+                }
+            ]
+        },
+
+
+        {
+            "nombre":"el corte ingles",
+            "direccion":"C. Luis Montoto, 122, 128, 41005 Sevilla",
+            "geolocalizacion":"37.38690759629258, -5.971654579166986",
+            "producto":[
+            {
+                "nombre": "coliflor congelada",
+                "categoria": "verduras",
+                "unidades": 0.750,
+                "unidMedida": "kilo",                    
+                "oferta": false,
+                "precio": 1.45,
+                "caducidad":"",
+                "adquirido": false
+            },
+        
+            {
+                "nombre": "arroz redondo",
+                "categoria": "arroz, pasta y legumbres",
+                "unidades": 1,
+                "unidMedida": "kilo",                    
+                "oferta": false,
+                "precio": 1.30,
+                "caducidad": "",
+                "adquirido": true
+            },
+    
+            {
+                "nombre": "pack latas de atun en aceite de girasol",
+                "categoria": "enlatados",
+                "unidades": 6,
+                "unidMedida": "latas",                    
+                "oferta": false,
+                "precio": 4.35,
+                "caducidad": "",
+                "adquirido": false
+            },
+         
+            {
+                "nombre": "arandanos congelados",
+                "categoria": "fruta",
+                "unidades": 0.300,
+                "unidMedida": "kilo",                    
+                "oferta": false,
+                "precio": 3.51,
+                "caducidad": "",
+                "adquirido": true
+            },
+ 
+            {
+                "nombre": "huevos medianos",
+                "categoria": "",
+                "unidades": 12,
+                "unidMedida": "unidades",                    
+                "oferta": true,
+                "precio": 3.38,
+                "caducidad": "",
+                "adquirido": false
+            },
+  
+            {
+                "nombre": "garbanzos",
+                "categoria": "arroz, pasta y legumbres",
+                "unidades": 1,
+                "unidMedida": "kilo",                    
+                "oferta": true,
+                "precio": 2.49,
+                "caducidad": "",
+                "adquirido": true
+            },
+
+            {
+                "nombre": "pollo entero",
+                "categoria": "carne",
+                "unidades": 1.7,
+                "unidMedida": "kilo",                    
+                "oferta": false,
+                "precio": 5.53,
+                "caducidad": "",
+                "adquirido": false
+            },
+
+            {
+                "nombre": "rodajas de merluza",
+                "categoria": "pescado",
+                "unidades": 0.540,
+                "unidMedida": "kilo",                    
+                "oferta": false,
+                "precio": 5.49,
+                "caducidad": "",
+                "adquirido": true
+            },
+
+            {
+                "nombre": "surtido de verduras",
+                "categoria": "verduras",
+                "unidades": 1,
+                "unidMedida": "kilo",                    
+                "oferta": false,
+                "precio": 3.13,
+                "caducidad": "",
+                "adquirido": true
+            },
+ 
+            {
+                "nombre": "platanos",
+                "categoria": "frutas",
+                "unidades": 2,
+                "unidMedida":"kilo",                    
+                "oferta": false,
+                "precio": 4.98,
+                "caducidad": "",
+                "adquirido": false
+            }
+            ]
+        },
+        {
+            "nombre":"carrefour",
+            "direccion":"Av. Eduardo Dato, 22, 41018 Sevilla",
+            "geolocalizacion":"37.383079103883254, -5.975107533226466",
+            "producto":[
+           
+            {
+                "nombre": "coliflor congelada",
+                "categoria": "verduras",
+                "unidades": 1,
+                "unidMedida": "kilo",                    
+                "oferta": false,
+                "precio": 1.88,
+                "caducidad":"",
+                "adquirido": false
+            },
+        
+            {
+                "nombre": "arroz redondo",
+                "categoria": "arroz, pasta y legumbres",
+                "unidades": 1,
+                "unidMedida": "kilo",                    
+                "oferta": false,
+                "precio": 1.60,
+                "caducidad": "",
+                "adquirido": true
+            },
+    
+            {
+                "nombre": "pack latas de atun en aceite de girasol",
+                "categoria": "enlatados",
+                "unidades": 6,
+                "unidMedida": "latas",                    
+                "oferta": false,
+                "precio": 3.79,
+                "caducidad": "",
+                "adquirido": false
+            },
+         
+            {
+                "nombre": "frutos rojos congelados",
+                "categoria": "fruta",
+                "unidades": 0.500,
+                "unidMedida": "kilo",                    
+                "oferta": false,
+                "precio": 3.09,
+                "caducidad": "",
+                "adquirido": true
+            },
+ 
+            {
+                "nombre": "huevos medianos",
+                "categoria": "",
+                "unidades": 12,
+                "unidMedida": "unidades",                    
+                "oferta": false,
+                "precio": 2.19,
+                "caducidad": "",
+                "adquirido": false
+            },
+  
+            {
+                "nombre": "garbanzos",
+                "categoria": "arroz, pasta y legumbres",
+                "unidades": 1,
+                "unidMedida": "kilo",                    
+                "oferta": false,
+                "precio": 2.39,
+                "caducidad": "",
+                "adquirido": true
+            },
+
+            {
+                "nombre": "pollo entero",
+                "categoria": "carne",
+                "unidades": 1.8,
+                "unidMedida": "kilo",                    
+                "oferta": false,
+                "precio": 11.25,
+                "caducidad": "",
+                "adquirido": false
+            },
+
+            {
+                "nombre": "medallones de merluza",
+                "categoria": "pescado",
+                "unidades": 0.480,
+                "unidMedida": "kilo",                    
+                "oferta": false,
+                "precio": 4.09,
+                "caducidad": "",
+                "adquirido": true
+            },
+
+            {
+                "nombre": "menestra de verduras",
+                "categoria": "verduras",
+                "unidades": 1,
+                "unidMedida": "kilo",                    
+                "oferta": false,
+                "precio": 4.25,
+                "caducidad": "",
+                "adquirido": true
+            },
+ 
+            {
+                "nombre": "platanos",
+                "categoria": "frutas",
+                "unidades": 0.600,
+                "unidMedida":"kilo",                    
+                "oferta": false,
+                "precio": 2,
+                "caducidad": "",
+                "adquirido": false
+            }
+            ]
+        },
+        {
+            "nombre":"lidl",
+            "direccion":"C. María Auxiliadora, 18, D-C, 41008 Sevilla",
+            "geolocalizacion":"37.39684686229764, -5.981743307656443",
+            "producto":[
+
+                {
+                    "nombre": "coliflor",
+                    "categoria": "verduras",
+                    "unidades": 1,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 2.98,
+                    "caducidad":"",
+                    "adquirido": false
+                },
+            
+                {
+                    "nombre": "arroz largo",
+                    "categoria": "arroz, pasta y legumbres",
+                    "unidades": 1,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 1.29,
+                    "caducidad": "",
+                    "adquirido": true
+                },
+        
+                {
+                    "nombre": "pack latas de atun en aceite de girasol",
+                    "categoria": "enlatados",
+                    "unidades": 6,
+                    "unidMedida": "latas",                    
+                    "oferta": true,
+                    "precio": 3.78,
+                    "caducidad": "",
+                    "adquirido": false
+                },
+             
+                {
+                    "nombre": "frutos rojos congelados",
+                    "categoria": "fruta",
+                    "unidades": 1,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 3.99,
+                    "caducidad": "",
+                    "adquirido": true
+                },
+     
+                {
+                    "nombre": "huevos medianos",
+                    "categoria": "",
+                    "unidades": 12,
+                    "unidMedida": "unidades",                    
+                    "oferta": false,
+                    "precio": 2.09,
+                    "caducidad": "",
+                    "adquirido": false
+                },
+      
+                {
+                    "nombre": "garbanzos",
+                    "categoria": "arroz, pasta y legumbres",
+                    "unidades": 0.570,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 2.19,
+                    "caducidad": "",
+                    "adquirido": true
+                },
+    
+                {
+                    "nombre": "pollo entero",
+                    "categoria": "carne",
+                    "unidades": 1,
+                    "unidMedida": "kilo",                    
+                    "oferta": true,
+                    "precio": 3.25,
+                    "caducidad": "",
+                    "adquirido": false
+                },
+    
+                {
+                    "nombre": "bacalao",
+                    "categoria": "pescado",
+                    "unidades": 0.250,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 3.79,
+                    "caducidad": "",
+                    "adquirido": true
+                },
+    
+                {
+                    "nombre": "menestra de verduras",
+                    "categoria": "verduras",
+                    "unidades": 1,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 1.09,
+                    "caducidad": "",
+                    "adquirido": true
+                },
+     
+                {
+                    "nombre": "platanos",
+                    "categoria": "frutas",
+                    "unidades": 2,
+                    "unidMedida":"kilo",                    
+                    "oferta": true,
+                    "precio": 2.10,
+                    "caducidad": "",
+                    "adquirido": false
+                }
+            ]
+        },
+        {
+            "nombre":"dia",
+            "direccion":"C. Paco Gandía, 5-7, 41007 Sevilla",
+            "geolocalizacion":"37.38938142050438, -5.9692594173708855",
+            "producto":[
+                {
+                    "nombre": "coliflor congelada",
+                    "categoria": "verduras",
+                    "unidades": 1,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 1.88,
+                    "caducidad":"",
+                    "adquirido": false
+                },
+            
+                {
+                    "nombre": "arroz redondo",
+                    "categoria": "arroz, pasta y legumbres",
+                    "unidades": 1,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 1.35,
+                    "caducidad": "",
+                    "adquirido": true
+                },
+        
+                {
+                    "nombre": "pack latas de atun en aceite de girasol",
+                    "categoria": "enlatados",
+                    "unidades": 6,
+                    "unidMedida": "latas",                    
+                    "oferta": false,
+                    "precio": 3.89,
+                    "caducidad": "",
+                    "adquirido": false
+                },
+             
+                {
+                    "nombre": "frutos rojos congelados",
+                    "categoria": "fruta",
+                    "unidades": 0.300,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 1.63,
+                    "caducidad": "",
+                    "adquirido": true
+                },
+     
+                {
+                    "nombre": "huevos medianos",
+                    "categoria": "",
+                    "unidades": 12,
+                    "unidMedida": "unidades",                    
+                    "oferta": false,
+                    "precio": 2.02,
+                    "caducidad": "",
+                    "adquirido": false
+                },
+      
+                {
+                    "nombre": "garbanzos",
+                    "categoria": "arroz, pasta y legumbres",
+                    "unidades": 1,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 2.39,
+                    "caducidad": "",
+                    "adquirido": true
+                },
+    
+                {
+                    "nombre": "pollo entero",
+                    "categoria": "carne",
+                    "unidades": 2,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 7.99,
+                    "caducidad": "",
+                    "adquirido": false
+                },
+    
+                {
+                    "nombre": "medallones de merluza",
+                    "categoria": "pescado",
+                    "unidades": 0.475,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 3.59,
+                    "caducidad": "",
+                    "adquirido": true
+                },
+    
+                {
+                    "nombre": "menestra de verduras",
+                    "categoria": "verduras",
+                    "unidades": 1,
+                    "unidMedida": "kilo",                    
+                    "oferta": false,
+                    "precio": 1.20,
+                    "caducidad": "",
+                    "adquirido": true
+                },
+     
+                {
+                    "nombre": "platanos",
+                    "categoria": "frutas",
+                    "unidades": 1.200,
+                    "unidMedida":"kilo",                    
+                    "oferta": false,
+                    "precio": 2.99,
+                    "caducidad": "",
+                    "adquirido": false
+                }
+            ]
+        }
+    ]
+}
